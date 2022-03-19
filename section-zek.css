@@ -112,7 +112,7 @@
          width: 200px;
          text-align: center;
          flex-grow:1;
-         border-width: 1px;
+         border-width: 0.5px;
          border-style: solid;
          border-color: gainsboro;
          border-radius: 1rem;
