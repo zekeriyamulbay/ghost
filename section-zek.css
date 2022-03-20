@@ -119,7 +119,7 @@
          margin-bottom: 0rem !important;
          box-shadow: 0 1px 2px rgba(0,0,0,0.15);
          transition: all 0.3s ease-in-out;
-             margin-top: 1rem;
+             margin-top: 0rem;
     }
      .section-list-item::after {
          box-shadow: 0 5px 15px rgba(0,0,0,0.3);
